@@ -1,0 +1,15 @@
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\bin\Debug\net6.0\Triangle Application.exe
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\bin\Debug\net6.0\Triangle Application.deps.json
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\bin\Debug\net6.0\Triangle Application.runtimeconfig.json
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\bin\Debug\net6.0\Triangle Application.dll
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\bin\Debug\net6.0\Triangle Application.pdb
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\obj\Debug\net6.0\Triangle Application.csproj.AssemblyReference.cache
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\obj\Debug\net6.0\Triangle Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\obj\Debug\net6.0\Triangle Application.AssemblyInfoInputs.cache
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\obj\Debug\net6.0\Triangle Application.AssemblyInfo.cs
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\obj\Debug\net6.0\Triangle Application.csproj.CoreCompileInputs.cache
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\obj\Debug\net6.0\Triangle Application.dll
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\obj\Debug\net6.0\refint\Triangle Application.dll
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\obj\Debug\net6.0\Triangle Application.pdb
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\obj\Debug\net6.0\Triangle Application.genruntimeconfig.cache
+C:\Users\verhovensky\source\repos\MindBox\Triangle Application\obj\Debug\net6.0\ref\Triangle Application.dll

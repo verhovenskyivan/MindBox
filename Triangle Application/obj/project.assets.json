@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\verhovensky\\source\\repos\\MindBox\\MindBox Application\\Circle Application.csproj",
-      "projectName": "Circle Application",
-      "projectPath": "C:\\Users\\verhovensky\\source\\repos\\MindBox\\MindBox Application\\Circle Application.csproj",
+      "projectUniqueName": "C:\\Users\\verhovensky\\source\\repos\\MindBox\\Triangle Application\\Triangle Application.csproj",
+      "projectName": "Triangle Application",
+      "projectPath": "C:\\Users\\verhovensky\\source\\repos\\MindBox\\Triangle Application\\Triangle Application.csproj",
       "packagesPath": "C:\\Users\\verhovensky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\verhovensky\\source\\repos\\MindBox\\MindBox Application\\obj\\",
+      "outputPath": "C:\\Users\\verhovensky\\source\\repos\\MindBox\\Triangle Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
