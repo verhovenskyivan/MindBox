@@ -1,0 +1,12 @@
+C:\Users\verhovensky\source\repos\MindBox\MindBox\bin\Debug\net6.0\MindBox.deps.json
+C:\Users\verhovensky\source\repos\MindBox\MindBox\bin\Debug\net6.0\MindBox.dll
+C:\Users\verhovensky\source\repos\MindBox\MindBox\bin\Debug\net6.0\MindBox.pdb
+C:\Users\verhovensky\source\repos\MindBox\MindBox\obj\Debug\net6.0\MindBox.csproj.AssemblyReference.cache
+C:\Users\verhovensky\source\repos\MindBox\MindBox\obj\Debug\net6.0\MindBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verhovensky\source\repos\MindBox\MindBox\obj\Debug\net6.0\MindBox.AssemblyInfoInputs.cache
+C:\Users\verhovensky\source\repos\MindBox\MindBox\obj\Debug\net6.0\MindBox.AssemblyInfo.cs
+C:\Users\verhovensky\source\repos\MindBox\MindBox\obj\Debug\net6.0\MindBox.csproj.CoreCompileInputs.cache
+C:\Users\verhovensky\source\repos\MindBox\MindBox\obj\Debug\net6.0\MindBox.dll
+C:\Users\verhovensky\source\repos\MindBox\MindBox\obj\Debug\net6.0\refint\MindBox.dll
+C:\Users\verhovensky\source\repos\MindBox\MindBox\obj\Debug\net6.0\MindBox.pdb
+C:\Users\verhovensky\source\repos\MindBox\MindBox\obj\Debug\net6.0\ref\MindBox.dll

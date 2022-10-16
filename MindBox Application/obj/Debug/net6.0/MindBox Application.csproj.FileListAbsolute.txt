@@ -1,0 +1,15 @@
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\bin\Debug\net6.0\MindBox Application.exe
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\bin\Debug\net6.0\MindBox Application.deps.json
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\bin\Debug\net6.0\MindBox Application.runtimeconfig.json
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\bin\Debug\net6.0\MindBox Application.dll
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\bin\Debug\net6.0\MindBox Application.pdb
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\MindBox Application.csproj.AssemblyReference.cache
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\MindBox Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\MindBox Application.AssemblyInfoInputs.cache
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\MindBox Application.AssemblyInfo.cs
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\MindBox Application.csproj.CoreCompileInputs.cache
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\MindBox Application.dll
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\refint\MindBox Application.dll
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\MindBox Application.pdb
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\MindBox Application.genruntimeconfig.cache
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\ref\MindBox Application.dll
