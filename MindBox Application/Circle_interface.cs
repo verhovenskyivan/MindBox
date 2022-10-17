@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace MindBox_Application
 {
-    internal interface Circle_interface
+    public interface Circle_interface
     {
+        double GetSquare();
     }
 }

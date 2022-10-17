@@ -33,8 +33,30 @@ namespace MindBox_Test
 
 
             Assert.NotNull(square);
-            Assert.Less(Math.Abs(square.Value - result), Constants.CalculationAccuracy);
+           
         }
 
-    }
+        [Test]
+        public void InitTriangleTest()
+        {
+           
+            double a = 3d, b = 4d, c = 5d;
+
+            
+            var triangle = new Triangle(a, b, c);
+
+          
+            Assert.NotNull(triangle);
+            Assert.Less(Math.Abs(triangle.A - a), MinimumValue.MinimumBorder);
+            Assert.Less(Math.Abs(triangle.B - b), MinimumValue.MinimumBorder);
+            Assert.Less(Math.Abs(triangle.C - c), MinimumValue.MinimumBorder);
+
+            [Test]
+            void InitNotTriangleTest()
+            {
+                Assert.Catch<ArgumentException>(() => new Triangle(2, 3, 4));
+            }
+
+        }
+    } 
 }
