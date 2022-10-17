@@ -26,6 +26,11 @@ namespace MindBox
             double Area = Math.PI * Radius * Radius; Console.WriteLine("Площадь круга: " + Area);
             Console.ReadKey();
         }
+
+        public object GetSquare()
+        {
+            throw new NotImplementedException();
+        }
     }
 
 }

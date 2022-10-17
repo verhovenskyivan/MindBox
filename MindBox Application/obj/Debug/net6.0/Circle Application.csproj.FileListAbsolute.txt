@@ -1,0 +1,15 @@
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\bin\Debug\net6.0\Circle Application.exe
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\bin\Debug\net6.0\Circle Application.deps.json
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\bin\Debug\net6.0\Circle Application.runtimeconfig.json
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\bin\Debug\net6.0\Circle Application.dll
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\bin\Debug\net6.0\Circle Application.pdb
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\Circle Application.csproj.AssemblyReference.cache
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\Circle Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\Circle Application.AssemblyInfoInputs.cache
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\Circle Application.AssemblyInfo.cs
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\Circle Application.csproj.CoreCompileInputs.cache
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\Circle Application.dll
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\refint\Circle Application.dll
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\Circle Application.pdb
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\Circle Application.genruntimeconfig.cache
+C:\Users\verhovensky\source\repos\MindBox\MindBox Application\obj\Debug\net6.0\ref\Circle Application.dll

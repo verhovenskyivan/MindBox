@@ -23,8 +23,7 @@ namespace MindBox
         {
             Console.Write("Введите радиус: ");
             double Radius = Convert.ToDouble(Console.ReadLine());
-            double Area = Math.PI * Radius * Radius; 
-            Console.WriteLine("Площадь круга: " + Area);
+            double Area = Math.PI * Radius * Radius; Console.WriteLine("Площадь круга: " + Area);
             Console.ReadKey();
         }
     }
